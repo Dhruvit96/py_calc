@@ -1,2 +1,7 @@
-# py_calc
-Calculator using python gui
+"# py_calc" 
+# Python GUI using PyQt
+
+## Install
+
+### PIP install PyQt5
+
